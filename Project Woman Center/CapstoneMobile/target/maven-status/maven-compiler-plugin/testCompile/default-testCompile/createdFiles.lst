@@ -1,0 +1,5 @@
+starter\CucumberTestSuite.class
+starter\mobile\Login.class
+starter\mobile\Logout.class
+starter\stepdefinitions\LogoutSteps.class
+starter\stepdefinitions\LoginSteps.class
