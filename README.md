@@ -8,7 +8,7 @@ Tempat, Tanggal Lahir: Kebumen, 15 April 2003
 Pendidikan Terakhir  : S1 Teknik Informatika, Universitas Negeri Semarng
 
 ## Project Experience
-### Project Roda-Roda PT Sagar Technology
+### Project Roda-Roda PT Sagara Technology
 
 Role    : Freelancer Manual Quality Assurance
 
@@ -31,7 +31,7 @@ f. Melakukan testing pada produk sebelum dan sesudah proses produksi
 g. Memberikan saran mengenai penyelesaian bug yang ada.
 
 
-Skill yang dimiliki:
+Skill yang dibutuhkan:
 
 a. Skill Menganalisis
 
@@ -43,7 +43,7 @@ d. Tekun dan Disiplin
 
 e. Komunikatif
 
-### project-Based Internship Rakamin Academy x Jubelio
+### Project-Based Internship Rakamin Academy x Jubelio
 
 Role    : Quality Assurance
 
@@ -60,7 +60,7 @@ c. Mengeksekusi Test Case dan Test Senario secara manual
 d. Melakukan Automation Testing pada Web yang disediakan oleh Jubelio
 
 
-Skill yang dimiliki:
+Skill yang dibutuhkan:
 
 a. Skill Menganalisis
 
@@ -71,6 +71,8 @@ c. Tekun dan Disiplin
 d. Web Automation Menggunakan Selenium
 
 ### Project Akhir MSIB Alterra Academy " Woman Center"
+
+Role    : Quality Engineer
 
 Periode : Mei - Juni 2023
 
@@ -92,12 +94,12 @@ g. Melakukan Bug Report ketika menemukan bug pada sistem
 
 h. Melakukan testing pada produk sebelum dan sesudah proses produksi
 
-h. Memberikan saran mengenai penyelesaian bug yang ada.
+h. Memberikan saran mengenai penyelesaian bug yang ada
 
-i. Melakukan Automation Testing pada API dan juga Mobile.
+i. Melakukan Automation Testing pada API dan juga Mobile
 
 
-Skill yang dimiliki:
+Skill yang dibutuhkan:
 
 a. Skill Menganalisis
 
@@ -118,3 +120,41 @@ h. Postman
 i. Appium
 
 j. Komunikatif
+
+### Mini Project MSIB Alterra Academy
+
+Role    : Quality Engineer
+
+Periode : Maret - April 2023
+
+Job List:
+
+a. Membuat dokumen perencanaan testing atau Test Plan
+
+b. Membuat Test Scenario dan Test Case
+
+c. Mengeksekusi Test Case dan Test Senario secara manual
+
+d. Malakukan Automation Testing pada Web, API, dan Mobile
+
+e. Melakukan Bug Report ketika menemukan bug pada sistem
+
+Skill yang dibutuhkan:
+
+a. Skill Menganalisis
+
+b. Problem Solving
+
+c. Tekun dan Disiplin
+
+d. Penggunaan Selenium untuk Automation Testing
+
+e. Framework Cucumber
+
+f. Appium
+
+g. Postman
+
+h. Appium
+
+i. Komunikatif
