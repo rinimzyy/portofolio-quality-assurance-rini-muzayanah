@@ -43,6 +43,33 @@ d. Tekun dan Disiplin
 
 e. Komunikatif
 
+### project-Based Internship Rakamin Academy x Jubelio
+
+Role    : Quality Assurance
+
+Periode : Oktober 2023
+
+Job List:
+
+a. Membuat dokumen perencanaan testing atau Test Plan
+
+b. Membuat Test Scenario dan Test Case
+
+c. Mengeksekusi Test Case dan Test Senario secara manual
+
+d. Melakukan Automation Testing pada Web yang disediakan oleh Jubelio
+
+
+Skill yang dimiliki:
+
+a. Skill Menganalisis
+
+b. Problem Solving
+
+c. Tekun dan Disiplin
+
+d. Web Automation Menggunakan Selenium
+
 ### Project Akhir MSIB Alterra Academy " Woman Center"
 
 Periode : Mei - Juni 2023
